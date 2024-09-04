@@ -1,0 +1,81 @@
+-------------Selenium Suite---------------
+What is automation testing?
+• Selenium suite
+• Introduction to IDE
+• Introduction to WebDriver
+• Introduction to Selenium Grid
+
+------------Selenium IDE-------------
+Features of Selenium IDE
+• Record and playback.
+• Assertion and verification
+
+----------------WebDriver Basics--------
+Installation and setup
+• Creating first WebDriver script
+• Implementing web drivers on multiple browsers
+• Common WebDriver & Web Element Commands
+Locators
+• How to work on form elements: textbox, submit, 
+button, checkbox, radio button, selecting value 
+from dropdown
+
+--------------------Synchronization in Selenium
+
+Assertion and verification 
+• What is Synchronization?
+• Different types of waits in Selenium
+
+------------Handling popups and alerts-------------
+Switching to popup in Selenium
+• Switching to alert in Selenium
+• Switching to window in Selenium
+
+
+-----------------Actions class ------------------
+Keyboard and mouse movements using the action 
+class
+
+----------------JavaScript Executor & Screenshots-
+Execute Java script using Selenium.
+• Taking screenshots
+
+
+--------------------Frameworks--------------
+Building Maven project framework
+• POM framework Selenium
+• Reading test data from the excel files using POI 
+library
+
+
+----------------Selenium 4-----------------
+Enhanced Selenium Grid
+• Upgraded Selenium IDE
+• Relative Locators in Selenium 4
+• Support for Chrome Debugging Protocol
+• Better Window/Tab Management in Selenium 4
+• Deprecation of Desired Capabilities
+• Modifications in the Actions Class
+
+------------------Network Intercepting in selenium
+Network Interceptor
+• Network Events of a Website
+• Mock the Network ResponseSelenium
+
+--------------------Cookies Handling & Desired Capabilities
+Adding Cookies
+• Deleting Cookies
+• What are Desired Capabilities?
+
+--------------------Selenium Grid & Jenkins---------------
+Selenium Grid Architecture
+• Configuring Hub and node
+• Writing the script that can execute on Selenium 
+Grid
+• Installing Jenkins
+• Configuring Jenkins to run TestNG suite.
+• Executing job in Jenkins
+
+
+
+
